@@ -124,6 +124,8 @@ Passionate about designing robust data infrastructure and operationalizing machi
 
 ## 📈 GitHub Stats
 
+![GitHub Snake Animation](https://github.com/vivekmangukiya11/vivekmangukiya11/blob/output/github-contribution-grid-snake.svg)
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
 
 
