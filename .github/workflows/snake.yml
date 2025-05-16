@@ -25,5 +25,5 @@ jobs:
           target_branch: output                 # Creates/pushes to `output` branch
           build_dir: dist                       # ✅ This must match the folder above
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
           
